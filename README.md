@@ -11,6 +11,14 @@ with pay and work/life balance.
 - **Respondents in scope:** 630
 - **Report-level filters:** none
 
+## Live Dashboard
+
+[![View the live report](https://img.shields.io/badge/Power%20BI-View%20Live%20Report-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/groups/a8b4bc89-bce5-4add-a0cb-f3674a2355e8/reports/dd4e3734-627d-444e-853f-49de8787e664?ctid=d3de91d7-5bb6-4ce1-a775-489e8e7143a8&pbi_source=linkShare)
+
+**Live report:** [Open Data Professional Survey Breakdown in Power BI](https://app.powerbi.com/groups/a8b4bc89-bce5-4add-a0cb-f3674a2355e8/reports/dd4e3734-627d-444e-853f-49de8787e664?ctid=d3de91d7-5bb6-4ce1-a775-489e8e7143a8&pbi_source=linkShare)
+
+> The link opens the report in Power BI Service, so it requires a Power BI sign-in with access to the workspace. To make the report viewable by anyone, republish it with **File -> Embed report -> Publish to web (public)** and replace the link above with the generated public URL.
+
 ## Dashboard Layout
 
 The canvas is arranged in three columns: respondent demographics on the left,
